@@ -8,5 +8,5 @@ gem 'awesome_print', '~> 1.8'
 gem "pry", :group => "development"
 
 group :test do
-  gem 'rspec', '~> 3.7'
+  gem 'rspec'
 end

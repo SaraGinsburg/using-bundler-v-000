@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 gem "rspec"
 getm "hashie"
 gem "sinatra", '1.4.4'

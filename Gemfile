@@ -1,4 +1,4 @@
-require_relative "../bin/run.rb"
+
 source "https://rubygems.org"
 gem "rspec"
 gem "hashie"
